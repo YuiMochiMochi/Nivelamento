@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+    background-color: #f0bcd4;
+}
+
+.doce {
+    width: 190px;
+
+}
+ 
+h1 {
+    text-align: center;
+    font-size: 100px;
+    color: #000000;
+}
+
+p {
+    text-align: center;
+    font-size: 30px;
+    color: #000000;
+}
